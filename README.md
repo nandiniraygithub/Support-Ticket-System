@@ -9,7 +9,7 @@
 | Section | Status | Requirement |
 | :--- | :---: | :--- |
 | **Backend** | ✅ | Django 6 + DRF + PostgreSQL system with full CRUD. |
-| **LLM Integration** | ✅ | Gemini (Google) & OpenAI support with keyword fallback. |
+| **LLM Integration** | ✅ | Gemini (Google) & OpenAI supportk. |
 | **Frontend** | ✅ | React (Vite) + shadcn/ui + Tailwind v4 + Recharts. |
 | **Data Aggregation** | ✅ | DB-level `Count` and `Avg` for stats (no Python loops). |
 | **DevOps** | ✅ | Fully containerized with Docker & Docker Compose. |
